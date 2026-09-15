@@ -18,7 +18,7 @@ This project was created on Code.org's JavaLab platform using the built-in Neigh
 
 ## Output:
 
-[image][Chickcen]
+![image][Chickcen]
 ## Reflection
 
 1. Describe your project.
