@@ -18,7 +18,7 @@ This project was created on Code.org's JavaLab platform using the built-in Neigh
 
 ## Output:
 
-[text](https://www.planetminecraft.com/texture-packs/tag/chicken/?op1%3D59)
+(https://www.planetminecraft.com/texture-packs/tag/chicken/?op1%3D59)
 ## Reflection
 
 1. Describe your project.
