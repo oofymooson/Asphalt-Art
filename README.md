@@ -18,7 +18,7 @@ This project was created on Code.org's JavaLab platform using the built-in Neigh
 
 ## Output:
 
-(https://www.planetminecraft.com/texture-packs/tag/chicken/?op1%3D59)
+[image][Chickcen]
 ## Reflection
 
 1. Describe your project.
@@ -31,3 +31,6 @@ This project was created on Code.org's JavaLab platform using the built-in Neigh
 
 5. What SLOs did you demonstrate during completing this project?
 
+
+
+[Chickcen]: https://www.planetminecraft.com/texture-packs/tag/chicken/?op1%3D59
