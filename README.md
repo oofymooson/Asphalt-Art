@@ -18,7 +18,7 @@ This project was created on Code.org's JavaLab platform using the built-in Neigh
 
 ## Output:
 
-![image][![Chicken](image.png)]
+[![Chicken](image.png)]
 ## Reflection
 
 1. Describe your project.
