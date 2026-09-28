@@ -18,7 +18,7 @@ This project was created on Code.org's JavaLab platform using the built-in Neigh
 
 ## Output:
 
-![image][Chickcen]
+![image][/Screenshot 2026-09-28 at 10.15.13 AM.png]
 ## Reflection
 
 1. Describe your project.
@@ -32,5 +32,3 @@ Thie project is related to the Technology, and Art section of the would STEAM be
 5. What SLOs did you demonstrate during completing this project?
 One SLO that I demonstrated during completing this project was that it is 100% success rate and it is compatible with any color you would want to color the chicken. For example, you can make hte mouth blue, or they eyes red, and more!
 
-
-[Chickcen]: https://www.planetminecraft.com/texture-packs/tag/chicken/?op1%3D59
