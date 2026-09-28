@@ -1,4 +1,8 @@
 import org.code.neighborhood.*;
+  /**
+   * Paints the Background or skin of the Chicken
+   * by doing a checkered patterned skin color
+   */
 public class CheckerPainter extends PainterPlus {
   
   public void paintCheckers(String color) {

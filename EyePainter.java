@@ -1,7 +1,8 @@
 import org.code.neighborhood.*;
 
 /**
- * EyePainter is a specialized PainterPlus subclass designed to paint the eyes of the chicken
+ * EyePainter is a specialized PainterPlus subclass 
+ * designed to paint the eyes of the chicken
  */
 public class EyePainter extends PainterPlus {
   public void paintEyes(String color) {
